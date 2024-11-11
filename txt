@@ -1,0 +1,6 @@
+goto src folder:
+       cd src
+code to compile
+       javac -cp ".;../lib/sqlite-jdbc.jar" Main.java
+code to run
+        java -cp ".;../lib/sqlite-jdbc.jar" Main
